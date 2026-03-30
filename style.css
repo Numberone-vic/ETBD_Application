@@ -1,0 +1,81 @@
+/* General page styling */
+body{
+    background-color:#121212;
+    color:#f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+}
+
+/* Header styling */
+header{
+    background-color:#8B0000;
+    color:white;
+    text-align:center;
+    padding:25px;
+    border-bottom:4px solid #550000;
+}
+
+/* Section styling */
+section{
+    background-color:#1e1e1e;
+    margin:20px;
+    padding:20px;
+    border-radius:8px;
+}
+
+/* Headings */
+h1{
+    margin:0;
+}
+
+h2{
+    color:#ff4d4d;
+    border-bottom:2px solid #8B0000;
+    padding-bottom:5px;
+}
+
+/* List styling */
+ul{
+    background-color:#2a2a2a;
+    padding:15px;
+    border-left:5px solid #8B0000;
+    border-radius:5px;
+}
+
+/* Aside box */
+aside{
+    background-color:#2a2a2a;
+    margin:20px;
+    padding:15px;
+    border-left:6px solid #ff4d4d;
+    border-radius:5px;
+}
+
+/* Table styling */
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:15px;
+}
+
+th{
+    background-color:#8B0000;
+    color:white;
+    padding:10px;
+}
+
+td{
+    background-color:#2a2a2a;
+    padding:10px;
+    border:1px solid #444;
+}
+
+/* Footer styling */
+footer{
+    background-color:#8B0000;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
